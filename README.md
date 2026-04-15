@@ -5,3 +5,4 @@ Sales Tax
 Foreign Tax
 Performer Tax
 Payroll Tax
+Automatically collects and calculates all taxes needed to track, categorizes them, Totality / Paid / Owed
